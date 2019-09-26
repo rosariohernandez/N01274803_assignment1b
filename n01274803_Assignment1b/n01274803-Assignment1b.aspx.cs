@@ -19,6 +19,7 @@ namespace n01274803_Assignment1b
                 {
                     string user_level_of_experience = user_experience.Text;
                     //hello
+                    //still learning!
                     booking_confirmation.InnerHtml = "Thank you for booking, your experience is " + user_level_of_experience + ".";
 
                 }
