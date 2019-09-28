@@ -58,6 +58,33 @@ namespace n01274803_Assignment1b {
         protected global::System.Web.UI.WebControls.RadioButtonList user_age;
         
         /// <summary>
+        /// booking_name control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox booking_name;
+        
+        /// <summary>
+        /// booking_email control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox booking_email;
+        
+        /// <summary>
+        /// booking_total control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox booking_total;
+        
+        /// <summary>
         /// news control.
         /// </summary>
         /// <remarks>
@@ -67,22 +94,13 @@ namespace n01274803_Assignment1b {
         protected global::System.Web.UI.WebControls.CheckBoxList news;
         
         /// <summary>
-        /// user_comment control.
+        /// booking_message control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox user_comment;
-        
-        /// <summary>
-        /// submit control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button submit;
+        protected global::System.Web.UI.WebControls.TextBox booking_message;
         
         /// <summary>
         /// booking_confirmation control.
@@ -92,5 +110,14 @@ namespace n01274803_Assignment1b {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl booking_confirmation;
+        
+        /// <summary>
+        /// submit control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button submit;
     }
 }
